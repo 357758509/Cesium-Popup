@@ -1,0 +1,22 @@
+{
+  "name": "cesium-vue3-vite",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "bin-datav": "^0.2.0",
+    "@turf/turf": "^6.5.0",
+    "axios": "^1.2.0",
+    "tween.js": "^16.6.0",
+    "vue": "^3.2.16"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "cesium": "^1.87.1",
+    "vite": "^2.6.14",
+    "vite-plugin-cesium": "^1.2.10"
+  }
+}
